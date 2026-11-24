@@ -1,0 +1,12 @@
+# CRO Hub
+- [x] Add selected-evidence AI recommendations with streamed results and clear source limits.
+- [x] Verify recommendation validation, access boundaries and a real AI Gateway response; 44 tests passed.
+- [ ] Verify signed-in recommendation generation end-to-end — waiting for a usable Lovable identity session; identity minting returned no matching account.
+- [x] Build five sample reporting screens, preserved filters and experiment drill-downs.
+- [x] Add fiscal-year calculations, CSV preview, validation and safe repeat imports in sample session.
+- [x] Prepare approved-user storage and sample source configuration.
+- [x] Verify sample reporting rules, navigation, import flow and responsive layout.
+- [ ] Live source connections and reconciliation — waiting for GA4 mappings, Optimizely access, tracker and Looker reports.
+- [ ] Approve initial internal users — waiting for go-ahead.
+- [ ] Activate private reporting and durable imports, mappings and target changes — waiting for approved users.
+- [ ] Run signed-in viewer/admin permission checks — waiting for approved users.
